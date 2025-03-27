@@ -1,0 +1,30 @@
+body {
+    background-color: #a3d3e5;
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 50px; /* Ajusta la altura si es necesario */
+}
+
+.footer {
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.container img {
+    max-width: 660px;
+    margin: 20px;
+}
+
